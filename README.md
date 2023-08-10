@@ -18,7 +18,7 @@ Achal Kumar Singh
 
 Experience Summary:
 
-• Having 4yrs of IT Experience with relevant experience of 2.9 years in Testing, DevOps, and deployment.    
+• Having 4yrs of IT Experience with relevant experience of 2.9 years in Testing, DevOps with jenkins ,teraform ,ansible , docker and kubernetes and deployment.    
 
 • Experience to write Advance Test cases with some extream condition of user's and execution and bug tracking.
 
