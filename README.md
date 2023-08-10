@@ -19,21 +19,37 @@ Achal Kumar Singh
 Experience Summary:
 
 • Having 4yrs of IT Experience with relevant experience of 2.9 years in Testing, DevOps, and deployment.    
+
 • Experience to write Advance Test cases with some extream condition of user's and execution and bug tracking.
+
 • Extensively Involved in Functional Testing including Regression Testing, Smoke Testing and Compatibility Testing.
+
 • Expertise in API Testing using Postman.
+
 • Expertise in Mobile Application Testing. (iOS and Android)
+
 • Experience of testing Web application, Android, and iOS apps.
+
 • Knowledge of Software SDLC and STLC.
+
 • Extensive knowledge Bug Life Cycle.
+
 • Knowledge of SQL Server database.
+
 • Proven ability to work as a team player as well as an individual. Excellent Interpersonal and Communication skills, coupled with strong technical         and problem solving capabilities.
+
 • Expertise in error handling and the fixation of bugs within the time limit raised by clients.
+
 • Experience in tools like smartgit, postman, Putty
+
 • Designed, configured and managed public/private cloud infrastructures utilizing Amazon Web Services (AWS) services such as EC2, Auto scaling and configuring Elastic Load Balancer, S3, Glacier for Resource storage and archiving, RDS, and managing network infrastructure using VPC, Route53,Managing Cloud with Cloud Watch, IAM and SNS.
+
 • Experience in working on version control tools such as GitHub, SourceRepo and GitLab.
+
 • Having a good experience of Database MYSQL,PLsql,Mssql and also handle some AI tool for database report collection.also good knowlege of advance database with join ,case ,if else statement.
+
 • Having a good experience of frontend and backend code Deployment in aws servers.
+
 Technical Expertise:
 
 
