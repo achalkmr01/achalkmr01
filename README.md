@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-## **Achal Kumar Singh**
+##  Achal Kumar Singh
 ##   QA Engineer
 
 Welcome to my GitHub profile! I'm a highly motivated Quality Assurance Engineer with a passion for ensuring software reliability and quality. I specialize in test automation, manual testing, and continuous integration with Docker, Kubernetes, Jenkins, Selenium, and Python. Let me tell you more about my expertise and experience.
