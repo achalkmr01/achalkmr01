@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! I'm a highly motivated Quality Assurance Engineer with a passion for ensuring software reliability and quality. I specialize in test automation, manual testing, and continuous integration with Docker, Kubernetes, Jenkins, Selenium, and Python. Let me tell you more about my expertise and experience.
 
+<!-- Skills Icons -->
 <div align="center">
   <img src="https://img.shields.io/badge/Role-QA%20Engineer-blue?style=for-the-badge&logo=quality&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-Selenium-green?style=for-the-badge&logo=selenium&logoColor=white">
@@ -27,6 +28,8 @@ Welcome to my GitHub profile! I'm a highly motivated Quality Assurance Engineer 
   <img src="https://img.shields.io/badge/Orchestration-Kubernetes-blueviolet?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/CI/CD-Jenkins-yellow?style=for-the-badge&logo=jenkins&logoColor=white">
 </div>
+
+## Skills
 ![QA Engineer](https://img.shields.io/badge/Role-QA%20Engineer-blue)
 ![Selenium](https://img.shields.io/badge/Tools-Selenium-green)
 ![Python](https://img.shields.io/badge/Programming-Python-orange)
