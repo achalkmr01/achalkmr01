@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 ###**Achal Kumar Singh**
-#  QA Engineer
+#   QA Engineer
 
 Welcome to my GitHub profile! I'm a highly motivated Quality Assurance Engineer with a passion for ensuring software reliability and quality. I specialize in test automation, manual testing, and continuous integration with Docker, Kubernetes, Jenkins, Selenium, and Python. Let me tell you more about my expertise and experience.
 
@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm a highly motivated Quality Assurance Engineer 
 Let's work together to ensure the quality and reliability of software applications! 🚀
 
 
-## **Experience Summary**:##
+## **Experience Summary**:
 
 • Having 4yrs of IT Experience with relevant experience of 2.9 years in Testing, DevOps with jenkins ,teraform ,ansible , docker and kubernetes and deployment.    
 
@@ -83,24 +83,31 @@ Let's work together to ensure the quality and reliability of software applicatio
 **
 • Having a good experience of frontend and backend code Deployment in aws servers.
 
-##**Technical Expertise:**
+## **Technical Expertise:**
 
 
-##***Operating Systems** ##Windows-XP/2000/2007/2008/2010,Linux,Ubuntu
+## ***Operating Systems** 
+Windows-XP/2000/2007/2008/2010,Linux,Ubuntu
 
-***Cloud** AWS,RDS,Medstack,
+## ***Cloud** 
+AWS,RDS,Medstack,
 
-***Database** RDS, MySQL,Firebase
+## ***Database** 
+RDS, MySQL,Firebase
 
-***Server** Tomcat 6.0, Apache,Ngnix
+## ***Server** 
+Tomcat 6.0, Apache,Ngnix
 
-***Tools** JIRA, Redmine, Excel,Redash,Docker,Ansible
+## ***Tools** 
+JIRA, Redmine, Excel,Redash,Docker,Ansible
 
-***Languages** Javascript,Python
+## ***Languages** 
+Javascript,Python
 
-**Projects Details**:
+## **Projects Details**:
 
-**Project** Name Numi Health
+# **Project** Name 
+Numi Health
 
 Project Description: Numi Health is a platform to deliver health services to Canadian citizens. The platform consists of Mobile Application, portal and store that includes health service information, lab test selection and scheduling, vaccination scheduling, nutrient therapy and wellness programs. The client is embarking on a future journey to enable patients' avail medical services through a mobile application that is extremely user friendly and can be delivered through all mobile and web platforms. The mobile solution should be integrated with a sophisticated back-end that consists of multiple lab partners, wellness program providers, medical professionals, pricing and payments. Need for a partner to collaborate in the complete software development lifecycle by bringing in innovation, cost-efficiency and faster lead times.
 
@@ -143,7 +150,8 @@ Project Description: This app is for ordering food items in a group of friends b
 • Preparing Test Summary report, Test Execution status report. 
 • Deployment of applications on AWS Servers 
 
-**Project Name**: Student chat app
+## **Project Name**: 
+Student chat app
 
 **Project Description** This app is for student asking their doubts by posting questions, images with their classmates, according to the subject they can post their doubt in that particular subject and accordingly teachers are assigned to the classes and they will monitor the posted questions by the students and verify them.
 
@@ -169,7 +177,7 @@ Project Description: This app is for ordering food items in a group of friends b
 • Deployment of applications on AWS Servers 
 Project Name Numi Store
 
-Project Description
+***Project Description***
 
 In this project we have developed Numi web Application, Numi is a mobile medical service that provides convenient testing solutions for healthcare consumers. We collect samples and partner with leading accredited labs to deliver accurate results.
 
@@ -190,7 +198,8 @@ In this project we have developed Numi web Application, Numi is a mobile medical
 • Proven ability to work as a team player as well as an individual. Excellent Interpersonal and Communication skills, coupled with strong technical   and problem solving capabilities.
 • Deployment of applications on AWS Servers
 
-**Project Name** YourDost
+### **Project Name** 
+YourDost
 
 **Project Description**
 
@@ -220,13 +229,17 @@ Client is making professional counselling affordable .that are three step Unders
 • Deployment of applications on AWS Servers
 • Wirte python script for automate Test cases
 • Write python script for automate Data.
-***Platform** Ubuntu 22.04
 
-***Languages** Java, SpringBoot, reactJs,Angular,Flutter,Python
+### ***Platform**  
+                 Ubuntu 22.04
 
-***Tools** Redash,,FreshDesk,Mandrillapp,Docker
+# ***Languages** 
+               Java, SpringBoot, reactJs,Angular,Flutter,Python
 
-**Education Details**
+# ***Tools** 
+               Redash,,FreshDesk,Mandrillapp,Docker
+
+# **Education Details**
 
 • **Degree Degree/** Certificate Institute Year of Passing Graduation
 
