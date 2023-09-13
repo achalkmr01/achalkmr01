@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-**Achal Kumar Singh**
-# - QA Engineer
+###**Achal Kumar Singh**
+#  QA Engineer
 
 Welcome to my GitHub profile! I'm a highly motivated Quality Assurance Engineer with a passion for ensuring software reliability and quality. I specialize in test automation, manual testing, and continuous integration with Docker, Kubernetes, Jenkins, Selenium, and Python. Let me tell you more about my expertise and experience.
 
@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm a highly motivated Quality Assurance Engineer 
 Let's work together to ensure the quality and reliability of software applications! 🚀
 
 
-**Experience Summary**:
+## **Experience Summary**:##
 
 • Having 4yrs of IT Experience with relevant experience of 2.9 years in Testing, DevOps with jenkins ,teraform ,ansible , docker and kubernetes and deployment.    
 
@@ -83,10 +83,10 @@ Let's work together to ensure the quality and reliability of software applicatio
 **
 • Having a good experience of frontend and backend code Deployment in aws servers.
 
-**Technical Expertise:**
+##**Technical Expertise:**
 
 
-***Operating Systems** Windows-XP/2000/2007/2008/2010,Linux,Ubuntu
+##***Operating Systems** ##Windows-XP/2000/2007/2008/2010,Linux,Ubuntu
 
 ***Cloud** AWS,RDS,Medstack,
 
