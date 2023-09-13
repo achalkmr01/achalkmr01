@@ -17,6 +17,39 @@ Here are some ideas to get you started:
 
 
 **Achal Kumar Singh**
+# - QA Engineer
+
+Welcome to my GitHub profile! I'm a highly motivated Quality Assurance Engineer with a passion for ensuring software reliability and quality. I specialize in test automation, manual testing, and continuous integration with Docker, Kubernetes, Jenkins, Selenium, and Python. Let me tell you more about my expertise and experience.
+
+![QA Engineer](https://img.shields.io/badge/Role-QA%20Engineer-blue)
+![Selenium](https://img.shields.io/badge/Tools-Selenium-green)
+![Python](https://img.shields.io/badge/Programming-Python-orange)
+![Docker](https://img.shields.io/badge/Containers-Docker-blue)
+![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-blueviolet)
+![Jenkins](https://img.shields.io/badge/CI/CD-Jenkins-yellow)
+
+## Skills
+
+- **Test Automation:** I have extensive experience in automating test cases using Selenium with Python. I've created robust and maintainable test suites for web applications, improving testing efficiency and coverage.
+
+- **Manual Testing:** I am proficient in manual testing techniques and have a keen eye for detail. I've conducted thorough manual testing to identify and report issues, ensuring the overall quality of software products.
+
+- **Continuous Integration:** I have a strong background in setting up and configuring CI/CD pipelines using Jenkins. This includes automated testing, deployment, and monitoring, enabling rapid and reliable software delivery.
+
+- **Containerization:** I am well-versed in containerization technologies like Docker, which allows me to create isolated and reproducible testing environments, making it easier to manage dependencies and streamline testing.
+
+- **Orchestration:** I have experience with Kubernetes, which I use to manage containerized applications at scale. This knowledge is crucial for ensuring the reliability and scalability of modern applications.
+
+## Projects
+
+- **E-commerce Website Automation:** I developed an end-to-end test suite for a popular e-commerce website using Selenium and Python. This suite automated critical user workflows, reducing testing time and increasing accuracy.
+
+- **CI/CD Pipeline for Web Application:** I implemented a Jenkins-based CI/CD pipeline for a web application, incorporating automated testing and deployment. This resulted in faster delivery of features and reduced manual intervention.
+
+- **Dockerized Testing Environments:** I created Docker containers for various testing environments, enabling consistent and reproducible testing across different platforms and configurations.
+
+Let's work together to ensure the quality and reliability of software applications! 🚀
+
 
 **Experience Summary**:
 
