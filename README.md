@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 ##  Achal Kumar Singh
 ##   QA Engineer
 
-Welcome to my GitHub profile! I'm a highly motivated Quality Assurance Engineer with a passion for ensuring software reliability and quality. I specialize in test automation, manual testing, and continuous integration with Docker, Kubernetes, Jenkins, Selenium, and Python. Let me tell you more about my expertise and experience.
+Hello! I'm a passionate Quality Assurance Engineer, dedicated to making software reliable and high-quality. To me, technology isn't just a job; it's a way of life where I enjoy learning and finding joy in what I do, everywhere I go. Currently, I'm focused on creating automated tests using Python and exploring various aspects of testing.
+
+My specialties include automating tests, manual testing, and using tools like Docker, Kubernetes, Jenkins, Selenium, and Python. Previously, I worked in the government health sector (NRHM), but I decided to modernize and switch fields. I'm also keenly interested in information security and penetration testing. Let me share more about my skills and experience with you.
 ##       
 <div align="center">
   <img src="https://img.shields.io/badge/Role-QA%20Engineer-blue?style=for-the-badge&logo=quality&logoColor=white">
