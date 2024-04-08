@@ -114,9 +114,9 @@ Javascript,Python
 ### **Project** Name 
 
 QA Engineer
-                                                                         AM-Chat (Document LLM)
-                                                                      Areteminds Private Limited
-***Duration From ** Nov 2023 to Present
+##                                                                         AM-Chat (Document LLM)
+##                                                                      Areteminds Private Limited
+***Duration From** Nov 2023 to Present
 1. Proficient in creating comprehensive test cases aligned with business requirements.
 2. Expertise in Agile Mythology architecture, including user management, communication, and activity tracking.
 3. Responsible for bug tracking handling, time tracking, and diverse task management (epic, story, bug, etc.).
@@ -124,9 +124,9 @@ QA Engineer
 5. Write automation code with the cucumber framework.
 
 QA Engineer
-                                                                    Areteminds Private Limited 
-                                                     (Client Name: - Your DOST Health Solution, Bangalore)
-***Duration From ** May 2022 to Nov 2023
+##                                                                    Areteminds Private Limited 
+##                                                     (Client Name: - Your DOST Health Solution, Bangalore)
+***Duration From** May 2022 to Nov 2023
 1. Proficient in creating comprehensive test cases aligned with business requirements.
 2. Expertise in Agile Mythology architecture, including user management, communication, and activity tracking.
 3. Responsible for bug tracking handling, time tracking, and diverse task management (epic, story, bug, etc.).
