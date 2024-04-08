@@ -112,6 +112,29 @@ Javascript,Python
 ## **Projects Details**:
 
 ### **Project** Name 
+
+QA Engineer
+                                                                         AM-Chat (Document LLM)
+                                                                      Areteminds Private Limited
+***Duration From ** Nov 2023 to Present
+1. Proficient in creating comprehensive test cases aligned with business requirements.
+2. Expertise in Agile Mythology architecture, including user management, communication, and activity tracking.
+3. Responsible for bug tracking handling, time tracking, and diverse task management (epic, story, bug, etc.).
+4. Capable of preparing test reports, deploying applications on AWS servers, and managing server-related issues like 404 error redirects proxy pass, s3 bucket deployment, LLM Architecture with OpenAI key and Croma DB CloudFormation and deploy docker with Apache and SNS and SQS.
+5. Write automation code with the cucumber framework.
+
+QA Engineer
+                                                                    Areteminds Private Limited 
+                                                     (Client Name: - Your DOST Health Solution, Bangalore)
+***Duration From ** May 2022 to Nov 2023
+1. Proficient in creating comprehensive test cases aligned with business requirements.
+2. Expertise in Agile Mythology architecture, including user management, communication, and activity tracking.
+3. Responsible for bug tracking handling, time tracking, and diverse task management (epic, story, bug, etc.).
+4. Skilled in API testing using Postman, preparing test plans, scenarios, and executing UI/functional testing.
+5. Experienced in SQL query execution for test data and collaboration with developers for bug closure.
+6. Collaborative approach with cross-functional teams, and successful partnerships with reputable companies/institutes.
+7. Proficient in using tools like Amplitude for user tracking and Burp Suite for security testing.
+
 Numi Health
 
 Project Description: Numi Health is a platform to deliver health services to Canadian citizens. The platform consists of Mobile Application, portal and store that includes health service information, lab test selection and scheduling, vaccination scheduling, nutrient therapy and wellness programs. The client is embarking on a future journey to enable patients' avail medical services through a mobile application that is extremely user friendly and can be delivered through all mobile and web platforms. The mobile solution should be integrated with a sophisticated back-end that consists of multiple lab partners, wellness program providers, medical professionals, pricing and payments. Need for a partner to collaborate in the complete software development lifecycle by bringing in innovation, cost-efficiency and faster lead times.
