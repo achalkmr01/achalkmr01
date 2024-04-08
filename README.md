@@ -127,6 +127,7 @@ Javascript,Python
 5. Write automation code with the cucumber framework.
 
 **QA Engineer**
+
 **Areteminds Private Limited** 
                                                                     
 **(Client Name: - Your DOST Health Solution, Bangalore)**
