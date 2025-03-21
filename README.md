@@ -163,13 +163,6 @@ Let's work together to ensure the quality and reliability of software applicatio
 </details>
 
 <!-- Projects Section -->
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://hardik-portfolio.vercel.app/projects">
-    <img src="https://img.shields.io/badge/View_All_Projects-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="All Projects" />
-  </a>
-</div>
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
