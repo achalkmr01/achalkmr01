@@ -111,27 +111,6 @@ Let's work together to ensure the quality and reliability of software applicatio
 
 # 🚀 My Projects
 
-<style>
-  .project-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 15px;
-  }
-  .project-card {
-    background: #f8f8f8;
-    padding: 15px;
-    border-radius: 10px;
-    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s, box-shadow 0.3s;
-    width: 250px;
-    text-align: center;
-  }
-  .project-card:hover {
-    transform: scale(1.05);
-    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.2);
-  }
-</style>
-
 <div class="project-container">
   
   <details class="project-card">
