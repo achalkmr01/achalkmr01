@@ -109,91 +109,81 @@ Let's work together to ensure the quality and reliability of software applicatio
 ✅ Automated test cases for web applications using Selenium & Python.
 ```
 
-## 📂 Projects
+# 🚀 My Projects
 
-### 🚀 My Featured Projects
+<style>
+  .project-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+  .project-card {
+    background: #f8f8f8;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+    width: 250px;
+    text-align: center;
+  }
+  .project-card:hover {
+    transform: scale(1.05);
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.2);
+  }
+</style>
 
-<div align="center">
+<div class="project-container">
+  
+  <details class="project-card">
+    <summary>✨ AM-Chat (Document LLM)</summary>
+    <p><b>Company:</b> Areteminds Pvt Ltd</p>
+    <p><b>Duration:</b> Nov 2023 - Present</p>
+    <p><b>Tech Stack:</b> Java, Python, AWS</p>
+    <ul>
+      <li>Developed test cases aligning with business requirements.</li>
+      <li>Handled bug tracking and time tracking.</li>
+      <li>Integrated OpenAI key and LLM architecture.</li>
+    </ul>
+  </details>
 
-<table>
-  <tr>
-    <td align="center"><b>AM-Chat (Document LLM)</b><br>Areteminds Pvt Ltd<br>📅 Nov 2023 - Present</td>
-    <td align="center"><b>Your DOST Health Solution</b><br>Areteminds Pvt Ltd<br>📅 May 2022 - Nov 2023</td>
-    <td align="center"><b>Numi Health</b><br>📅 Dec 2021 - Present</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <details>
-        <summary>🔍 View Details</summary>
-        <ul>
-          <li>Developed test cases aligning with business requirements.</li>
-          <li>Handled bug tracking and time tracking.</li>
-          <li>Deployed applications on AWS.</li>
-          <li>Integrated OpenAI key and LLM architecture.</li>
-          <li>Implemented automation with the Cucumber framework.</li>
-        </ul>
-      </details>
-    </td>
-    <td align="center">
-      <details>
-        <summary>🔍 View Details</summary>
-        <ul>
-          <li>Executed test cases and API testing using Postman.</li>
-          <li>Performed UI and functional testing.</li>
-          <li>Utilized Amplitude for user tracking and Burp Suite for security testing.</li>
-        </ul>
-      </details>
-    </td>
-    <td align="center">
-      <details>
-        <summary>🔍 View Details</summary>
-        <ul>
-          <li>Conducted functional testing and API validation.</li>
-          <li>Managed test case execution and defect tracking.</li>
-          <li>Deployed applications on AWS.</li>
-        </ul>
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Restaurant App</b><br>📅 Sep 2020 - Feb 2022</td>
-    <td align="center"><b>Student Chat App</b><br>📅 Mar 2021 - Present</td>
-    <td align="center"><b>Numi Store</b><br>📅 Feb 2020 - Aug 2020</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <details>
-        <summary>🔍 View Details</summary>
-        <ul>
-          <li>Executed UI and API testing.</li>
-          <li>Handled defect tracking and resolution.</li>
-          <li>Deployed applications on AWS.</li>
-        </ul>
-      </details>
-    </td>
-    <td align="center">
-      <details>
-        <summary>🔍 View Details</summary>
-        <ul>
-          <li>Developed and executed test cases.</li>
-          <li>Performed API testing and SQL query validation.</li>
-          <li>Managed bug tracking and deployment on AWS.</li>
-        </ul>
-      </details>
-    </td>
-    <td align="center">
-      <details>
-        <summary>🔍 View Details</summary>
-        <ul>
-          <li>Conducted regression testing and bug tracking.</li>
-          <li>Analyzed reports and collaborated on bug fixes.</li>
-        </ul>
-      </details>
-    </td>
-  </tr>
-</table>
+  <details class="project-card">
+    <summary>👨‍⚕️ Your DOST Health Solution</summary>
+    <p><b>Company:</b> Areteminds Pvt Ltd</p>
+    <p><b>Duration:</b> May 2022 - Nov 2023</p>
+    <p><b>Tech Stack:</b> Java, Postman, AWS</p>
+    <ul>
+      <li>Executed test cases and API testing using Postman.</li>
+      <li>Performed UI and functional testing.</li>
+      <li>Used Amplitude for user tracking & Burp Suite for security testing.</li>
+    </ul>
+  </details>
+
+  <details class="project-card">
+    <summary>🏥 Numi Health</summary>
+    <p><b>Industry:</b> Healthcare & Wellness</p>
+    <p><b>Duration:</b> Dec 2021 - Present</p>
+    <p><b>Tech Stack:</b> Java, Selenium, AWS</p>
+    <ul>
+      <li>Conducted functional testing and API validation.</li>
+      <li>Managed test case execution and defect tracking.</li>
+      <li>Deployed applications on AWS.</li>
+    </ul>
+  </details>
+
+  <details class="project-card">
+    <summary>💬 Student Chat App</summary>
+    <p><b>Industry:</b> Education</p>
+    <p><b>Duration:</b> Mar 2021 - Present</p>
+    <p><b>Tech Stack:</b> Java, SQL, AWS</p>
+    <ul>
+      <li>Developed and executed test cases.</li>
+      <li>Performed API testing and SQL query validation.</li>
+      <li>Managed bug tracking and deployment on AWS.</li>
+    </ul>
+  </details>
 
 </div>
+
 
 <!-- Tech Stack Section -->
 ## 🛠️ My Tech Stack 
