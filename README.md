@@ -109,6 +109,91 @@ Let's work together to ensure the quality and reliability of software applicatio
 ✅ Automated test cases for web applications using Selenium & Python.
 ```
 
+## 📂 Projects
+
+### 🚀 My Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><b>AM-Chat (Document LLM)</b><br>Areteminds Pvt Ltd<br>📅 Nov 2023 - Present</td>
+    <td align="center"><b>Your DOST Health Solution</b><br>Areteminds Pvt Ltd<br>📅 May 2022 - Nov 2023</td>
+    <td align="center"><b>Numi Health</b><br>📅 Dec 2021 - Present</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <details>
+        <summary>🔍 View Details</summary>
+        <ul>
+          <li>Developed test cases aligning with business requirements.</li>
+          <li>Handled bug tracking and time tracking.</li>
+          <li>Deployed applications on AWS.</li>
+          <li>Integrated OpenAI key and LLM architecture.</li>
+          <li>Implemented automation with the Cucumber framework.</li>
+        </ul>
+      </details>
+    </td>
+    <td align="center">
+      <details>
+        <summary>🔍 View Details</summary>
+        <ul>
+          <li>Executed test cases and API testing using Postman.</li>
+          <li>Performed UI and functional testing.</li>
+          <li>Utilized Amplitude for user tracking and Burp Suite for security testing.</li>
+        </ul>
+      </details>
+    </td>
+    <td align="center">
+      <details>
+        <summary>🔍 View Details</summary>
+        <ul>
+          <li>Conducted functional testing and API validation.</li>
+          <li>Managed test case execution and defect tracking.</li>
+          <li>Deployed applications on AWS.</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Restaurant App</b><br>📅 Sep 2020 - Feb 2022</td>
+    <td align="center"><b>Student Chat App</b><br>📅 Mar 2021 - Present</td>
+    <td align="center"><b>Numi Store</b><br>📅 Feb 2020 - Aug 2020</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <details>
+        <summary>🔍 View Details</summary>
+        <ul>
+          <li>Executed UI and API testing.</li>
+          <li>Handled defect tracking and resolution.</li>
+          <li>Deployed applications on AWS.</li>
+        </ul>
+      </details>
+    </td>
+    <td align="center">
+      <details>
+        <summary>🔍 View Details</summary>
+        <ul>
+          <li>Developed and executed test cases.</li>
+          <li>Performed API testing and SQL query validation.</li>
+          <li>Managed bug tracking and deployment on AWS.</li>
+        </ul>
+      </details>
+    </td>
+    <td align="center">
+      <details>
+        <summary>🔍 View Details</summary>
+        <ul>
+          <li>Conducted regression testing and bug tracking.</li>
+          <li>Analyzed reports and collaborated on bug fixes.</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <!-- Tech Stack Section -->
 ## 🛠️ My Tech Stack 
@@ -202,6 +287,7 @@ Let's work together to ensure the quality and reliability of software applicatio
     <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" />
   </a>
 </div>
+
 
 
 # **Technical Expertise:**
