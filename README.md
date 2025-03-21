@@ -67,6 +67,8 @@ Let's work together to ensure the quality and reliability of software applicatio
 
 # 📂 Work Experience:
 ```javascript
+✅ 4 years of IT experience, including 2.9 years in Testing and DevOps, working with Jenkins, Terraform, Ansible, Docker, and Kubernetes.
+
 ✅ Automated test cases for web applications using Selenium & Python.
 
 🛠 Configured CI/CD pipelines for continuous testing and deployment.
@@ -78,6 +80,25 @@ Let's work together to ensure the quality and reliability of software applicatio
 🏗 Deployed applications on AWS Servers.
 
 📝 Wrote Python scripts for automated data extraction and test execution.
+
+✅ Proficient in writing advanced test cases with edge scenarios, execution, and bug tracking.
+
+🔍 Extensive experience in Functional Testing, including Regression, Smoke, and Compatibility Testing.
+
+📊 Hands-on expertise in API Testing with Postman and Mobile Testing (iOS & Android).
+
+🔍 Strong understanding of SDLC, STLC, and the Bug Life Cycle.
+
+✅ Experience in version control using GitHub, SourceRepo, and GitLab. <img src="https://img.shields.io/badge/Version%20Control-GitHub-black?style=for-the-badge&logo=github&logoColor=white">
+
+✅ Solid database knowledge, including MySQL, PL/SQL, and MSSQL, with advanced query writing. <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white">
+
+✅ Configured and managed AWS services such as EC2, Auto Scaling, Load Balancer, S3, RDS, Route53, CloudWatch, IAM, and SNS. <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white">
+
+
+✅ Experienced in deploying frontend and backend applications on AWS.
+
+✅ Automated test cases for web applications using Selenium & Python.
 ```
 
 • Having 4yrs of IT Experience with relevant experience of 2.9 years in Testing, DevOps with jenkins ,teraform ,ansible , docker and kubernetes and deployment.    
