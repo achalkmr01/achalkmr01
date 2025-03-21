@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 
 
-![Achal Kumar Singh](https://camo.githubusercontent.com/5074916775dec4ef483d82f347f3ce73d53bc0240e3c689c9f275d4d9dd4358f/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3230302673656374696f6e3d68656164657226746578743d416368616c25323053696e676826666f6e7453697a653d373026666f6e74416c69676e593d333526616e696d6174696f6e3d66616465496e26666f6e74436f6c6f723d666666666666)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Achal%20Kumar%20Singh&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Achal Kumar Singh">
+</div>
 
 
 ##   QA Engineer
