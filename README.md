@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 -->
 
 
-##  Achal Kumar Singh
+<div align="center">
+  <img src="https://camo.githubusercontent.com/5074916775dec4ef483d82f347f3ce73d53bc0240e3c689c9f275d4d9dd4358f/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3230302673656374696f6e3d68656164657226746578743d416368616c25323053696e676826666f6e7453697a653d373026666f6e74416c69676e593d333526616e696d6174696f6e3d66616465496e26666f6e74436f6c6f723d666666666666" alt="AchalKumar Singh">
+</div>
+
 ##   QA Engineer
 
 Hello! I'm a passionate Quality Assurance Engineer, dedicated to making software reliable and high-quality. To me, technology isn't just a job; it's a way of life where I enjoy learning and finding joy in what I do, everywhere I go. Currently, I'm focused on creating automated tests using Python and exploring various aspects of testing.
