@@ -30,7 +30,9 @@ My specialties include automating tests, manual testing, and using tools like Do
   <img src="https://img.shields.io/badge/CI/CD-Jenkins-yellow?style=for-the-badge&logo=jenkins&logoColor=white">
 </div>
 
-🧠 About Me
+# 🧠 About Me
+
+```javascript
 const qaEngineer = {
   currentFocus: "Automation & DevOps Integration",
   learning: ["Advanced Python", "Cloud Security", "System Design"],
@@ -39,7 +41,7 @@ const qaEngineer = {
   funFact: "I find bugs before they find me!",
   location: "India"
 };
-
+```
 ## Skills
 
 - **Test Automation:** I have extensive experience in automating test cases using Selenium with Python. I've created robust and maintainable test suites for web applications, improving testing efficiency and coverage.
