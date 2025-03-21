@@ -101,37 +101,107 @@ Let's work together to ensure the quality and reliability of software applicatio
 ✅ Automated test cases for web applications using Selenium & Python.
 ```
 
-• Having 4yrs of IT Experience with relevant experience of 2.9 years in Testing, DevOps with jenkins ,teraform ,ansible , docker and kubernetes and deployment.    
 
-• Experience to write Advance Test cases with some extream condition of user's and execution and bug tracking.
+<!-- Tech Stack Section -->
+## 🛠️ My Tech Stack 
 
-• Extensively Involved in Functional Testing including Regression Testing, Smoke Testing and Compatibility Testing.
+<details open>
+<summary><b>Frontend Development</b></summary>
+<br>
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" /></a>
+</p>
+</details>
 
-• Expertise in API Testing using Postman.
+<details>
+<summary><b>Programming Languages</b></summary>
+<br>
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+</p>
+</details>
 
-• Expertise in Mobile Application Testing. (iOS and Android)
+<details>
+<summary><b>Backend & Database</b></summary>
+<br>
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+</p>
+</details>
 
-• Experience of testing Web application, Android, and iOS apps.
+<details>
+<summary><b>Tools & Platforms</b></summary>
+<br>
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></a>
+</p>
+</details>
 
-• Knowledge of Software SDLC and STLC.
+<!-- Projects Section -->
+## 🚀 Featured Projects
 
-• Extensive knowledge Bug Life Cycle.
+<div align="center">
+  <a href="https://hardik-portfolio.vercel.app/projects">
+    <img src="https://img.shields.io/badge/View_All_Projects-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="All Projects" />
+  </a>
+</div>
 
-• Knowledge of **SQL Server database.
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
 
-• Proven ability to work as a team player as well as an individual. Excellent Interpersonal and Communication skills, coupled with strong technical and problem solving capabilities.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=achalkmr01&show_icons=true&theme=tokyonight&hide_border=true" alt="Hardik's GitHub Stats" />
+</div>
 
-• Expertise in error handling and the fixation of bugs within the time limit raised by clients.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achalkmr01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Hardik's Top Languages" />
+</div>
 
-• Experience in tools like **smartgit, postman, Putty**
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=achalkmr01&theme=tokyonight" alt="Activity Graph" />
+</div>
 
-• Designed, configured and managed public/private cloud infrastructures utilizing **Amazon Web Services (AWS)** services such as EC2, Auto scaling and configuring Elastic Load Balancer, S3, Glacier for Resource storage and archiving, RDS, and managing network infrastructure using VPC, Route53,Managing Cloud with Cloud Watch, IAM and SNS.
+<!-- Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=achalkmr01&theme=tokyonight&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</div>
 
-• Experience in working on version control tools such as **GitHub, SourceRepo and GitLab**.
+<!-- Connect with me -->
+## 🌐 Connect With Me
 
-• Having a good experience of Database **MYSQL,PLsql,Mssql and also handle some AI tool for database report collection**.also good knowlege of **advance database with join ,case ,if else statement.
-**
-• Having a good experience of frontend and backend code Deployment in aws servers.
+<div align="center">
+  <a href="https://linkedin.com/in/achalkmr01">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/achalkmr01">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/achalkmr01">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://snapchat.com/add/achalkmr01">
+    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" />
+  </a>
+</div>
+
 
 # **Technical Expertise:**
 
