@@ -65,7 +65,20 @@ const qaEngineer = {
 Let's work together to ensure the quality and reliability of software applications! 🚀
 
 
-## **Experience Summary**:
+# 📂 Work Experience:
+```javascript
+✅ Automated test cases for web applications using Selenium & Python.
+
+🛠 Configured CI/CD pipelines for continuous testing and deployment.
+
+🔍 Performed thorough manual testing for identifying software defects.
+
+📊 Generated test reports and collaborated with developers for bug fixes.
+
+🏗 Deployed applications on AWS Servers.
+
+📝 Wrote Python scripts for automated data extraction and test execution.
+```
 
 • Having 4yrs of IT Experience with relevant experience of 2.9 years in Testing, DevOps with jenkins ,teraform ,ansible , docker and kubernetes and deployment.    
 
