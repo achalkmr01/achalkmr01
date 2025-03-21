@@ -30,6 +30,15 @@ My specialties include automating tests, manual testing, and using tools like Do
   <img src="https://img.shields.io/badge/CI/CD-Jenkins-yellow?style=for-the-badge&logo=jenkins&logoColor=white">
 </div>
 
+🧠 About Me
+const qaEngineer = {
+  currentFocus: "Automation & DevOps Integration",
+  learning: ["Advanced Python", "Cloud Security", "System Design"],
+  askMeAbout: ["Selenium", "Java", "CI/CD", "AWS"],
+  reachMe: "achalkmr01@gmail.com",
+  funFact: "I find bugs before they find me!",
+  location: "India"
+};
 
 ## Skills
 
